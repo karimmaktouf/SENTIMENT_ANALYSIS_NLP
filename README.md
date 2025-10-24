@@ -174,19 +174,4 @@ print(f"Sentiment: {sentiment}")  # Output: Positive
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 👤 Auteur
-
-**[Votre Nom]**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
-
-## 🙏 Remerciements
-
-- Dataset fourni par [Twitter API]
-- VADER Sentiment Analysis
-- Communauté Scikit-learn et SHAP
-
----
-
 ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
